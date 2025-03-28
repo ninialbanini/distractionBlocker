@@ -39,7 +39,8 @@ The final product now includes a close tab button, and a go to Google button. Wh
 
 ## 📸 Picture Credits!
 
-Background photo by Davies Designs Studio on "https://unsplash.com/photos/white-cloud-formations-_UCVrH-ZIIg?utm_content=creditCopyText&utm_medium=referral&utm_source=unsplash" -- Unsplash
+Background photo by Photo by <a href="https://unsplash.com/@davies_designs?utm_content=creditCopyText&utm_medium=referral&utm_source=unsplash">Davies Designs Studio</a> on <a href="https://unsplash.com/photos/white-cloud-formations-_UCVrH-ZIIg?utm_content=creditCopyText&utm_medium=referral&utm_source=unsplash">Unsplash</a>
+      
 
 Icon photo by <a href="https://unsplash.com/@samaradoole?utm_content=creditCopyText&utm_medium=referral&utm_source=unsplash">Samara Doole</a> on <a href="https://unsplash.com/photos/closeup-photo-of-water-T8-kfC8W4b8?utm_content=creditCopyText&utm_medium=referral&utm_source=unsplash">Unsplash</a>
 
