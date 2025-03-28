@@ -1,0 +1,85 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Distraction Blocker</title>
+    <script defer src="popup.js"></script> 
+    <style>
+        body {
+            font-family: Arial, sans-serif;
+            text-align: center;
+            background-color: #f8f9fa;
+            padding: 20px;
+            max-width: 350px;
+            margin: auto;
+            border-radius: 8px;
+        }
+
+        h2, h3 {
+            color: #333;
+        }
+
+        input {
+            width: 80%;
+            padding: 8px;
+            margin: 10px 0;
+            border: 1px solid #ccc;
+            border-radius: 5px;
+        }
+
+        button {
+            background-color: #FADADD;
+            color: white;
+            border: none;
+            padding: 10px 15px;
+            border-radius: 5px;
+            cursor: pointer;
+            transition: 0.3s;
+        }
+
+        button:hover {
+            background-color: #ff69b4;
+        }
+
+        ul {
+            list-style: none;
+            padding: 0;
+        }
+
+        li {
+            background: white;
+            margin: 5px 0;
+            padding: 8px;
+            border-radius: 5px;
+            display: flex;
+            justify-content: space-between;
+            align-items: center;
+            box-shadow: 2px 2px 4px rgba(0, 0, 0, 0.1);
+        }
+
+        .remove-btn {
+            background: #dc3545;
+            color: white;
+            border: none;
+            padding: 5px 8px;
+            border-radius: 5px;
+            cursor: pointer;
+            font-size: 12px;
+        }
+
+        .remove-btn:hover {
+            background: #c82333;
+        }
+
+    </style>
+</head>
+<body>
+    <h2>Distraction Blocker</h2>
+    <input type="text" id="new-site" placeholder="Enter site (e.g., youtube.com)">
+    <button id="add-site">Add</button>
+
+    <h3>Blocked Sites</h3>
+    <ul id="site-list"></ul>
+</body>
+</html>
