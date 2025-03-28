@@ -1,7 +1,7 @@
 
 ## ℹ️ Overview  
 
-I created this chrome extension as tool to keep me on task. With essentially my entire coursework being on my computer - specifically chrome, I found there was nothing stopping me from popping open new tabs of unrelated things, and the worst part is, I sometimes don't even realize how sidetracked I can get! 
+I created this chrome extension as a tool to keep me on task. With essentially my entire coursework being on my computer - specifically chrome, I found there was nothing stopping me from popping open new tabs of unrelated things, and the worst part is, I sometimes don't even realize how sidetracked I can get! 
 
 Creating this extension was a way to set those reminders in place, and customize my blocked sites for each work session, with ease. 
 
